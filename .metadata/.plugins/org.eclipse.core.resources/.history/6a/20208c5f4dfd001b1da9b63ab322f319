@@ -1,0 +1,5 @@
+package com.wts.algalog.domain.exception;
+
+public class EntidadeNaoEncontradaException {
+
+}

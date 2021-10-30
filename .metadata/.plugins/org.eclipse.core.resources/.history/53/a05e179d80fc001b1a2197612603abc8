@@ -1,0 +1,5 @@
+package com.wts.algalog.domain.repository;
+
+public interface ClienteRepository {
+
+}

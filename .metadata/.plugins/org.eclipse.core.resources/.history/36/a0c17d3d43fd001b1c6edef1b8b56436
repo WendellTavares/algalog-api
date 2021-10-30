@@ -1,0 +1,9 @@
+package com.wts.algalog.api.model.input;
+
+@Getter
+@Setter
+public class ClienteIdInput {
+	
+	private Long id;
+
+}

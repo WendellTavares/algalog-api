@@ -1,0 +1,5 @@
+package com.wts.algalog.api.model.input;
+
+public class OcorrenciaInput {
+
+}

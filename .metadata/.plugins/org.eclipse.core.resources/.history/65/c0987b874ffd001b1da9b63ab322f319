@@ -1,0 +1,5 @@
+package com.wts.algalog.domain.service;
+
+public class FinalizacaoEntregaService {
+
+}

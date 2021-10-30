@@ -1,0 +1,21 @@
+package com.wts.algalog.api.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.wts.algalog.domain.model.Cliente;
+
+@RestController
+public class ClienteController {
+	
+	@GetMapping("/clientes")
+	public String listar() {
+		return "Teste";
+	}
+	
+	Cliente cli = new Cliente();
+	
+	
+	
+}
+

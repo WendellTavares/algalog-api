@@ -1,0 +1,5 @@
+package com.wts.algalog.api.assembler;
+
+public class OcorrenciaAssembler {
+
+}
